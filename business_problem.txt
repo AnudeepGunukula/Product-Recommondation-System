@@ -1,0 +1,30 @@
+
+Business problem: 
+
+ecommerce is all about connecting people to the products they love. To help customers find those products,
+they developed world-class product recommendation system, Its job is to predict whether someone will enjoy
+a product based on how much they liked or disliked other products. ecommerce sites use those predictions
+to make personal product recommendations based on each customer’s unique tastes. Now there are a lot of 
+interesting alternative approaches to how recommendation systems of ecommerce sites works that they haven’t tried.
+Some are described in the literature, some aren’t. if there is a much better approach it could make a big difference
+to the customers and their business.
+
+
+solution:
+
+The Popularity-based recommender system is a non-personalised recommender system and these are based on frequecy counts,
+which may be not suitable to the user.The Popularity based model has recommended the same set of products to all
+but Collaborative Filtering based model has recommended entire different list based on the user past purchase history.
+Model-based 
+
+"Collaborative Filtering" is a personalised recommender system, the recommendations are based on the past behavior
+of the user and it is not dependent on any additional information.
+
+
+requirements:
+
+ipython-notebook - Python Text Editor
+sklearn - Machine learning library
+seaborn, matplotlib.pyplot, - Visualization libraries
+numpy, scipy- number python library
+pandas - data handling library
