@@ -2,14 +2,14 @@
 
 <br>
 
-##Problem Statement
+## Problem Statement
 <hr>
 
 Building recommondation system for products electronics and clothing
 
 <br>
 
-##Description
+## Description
 
 Online E-commerce websites like Amazon,Flipkart uses different recommondation models
 to provide different suggestions to different users. ecommerce sites currently uses
@@ -22,13 +22,13 @@ recommendation model with the similar kind of approach.
 <br>
 
 
-##Objecives:
+## Objecives:
 <hr>
 
 1. Predict the rating that a user would give to a product that he has not yet rated.
 2. Minimize the difference between predicted and actual rating (RMSE) 
 
-##Prerequisites:
+## Prerequisites:
 <hr>
 You need to have installed following softwares and libraries in your machine before running this project.
 
